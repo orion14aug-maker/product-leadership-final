@@ -62,4 +62,4 @@ _Run the devil's-advocate prompt (in the Sprint 2 guide). Capture the verdict._
 
 ## Link to full artifact
 
-_[Add the GitHub link to your completed Strategy Sprint Builder export here]_
+[Completed Strategy Sprint Builder](./strategy-sprint-builder.md)
